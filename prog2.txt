@@ -1,1 +1,2 @@
 Hello there. This is program 2.
+Hehe, new lines.
